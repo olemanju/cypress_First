@@ -1,0 +1,22 @@
+{
+  "name": "cypressproj_basics",
+  "version": "1.0.0",
+  "description": "Automation Testing using cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "Automation"
+  ],
+  "author": "manjunatha",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0",
+    "cypress-xpath": "^1.4.0",
+    "prettier": "^2.0.5"
+  }
+}
